@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cdtoparent.png</file>
+        <file>dir.png</file>
+        <file>file.png</file>
+        <file>ftp.png</file>
+        <file>ld.ico</file>
+        <file>login.png</file>
+        <file>LoginSys.png</file>
+        <file>option.ico</file>
+        <file>Option.png</file>
+        <file>pwd.png</file>
+        <file>userName.png</file>
+        <file>VerifiCode.png</file>
+    </qresource>
+</RCC>
